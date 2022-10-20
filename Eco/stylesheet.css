@@ -1,0 +1,50 @@
+
+header{
+
+color: red;
+font-size: 0.75cm;
+text-align: center;
+background-color: aquamarine;
+border: 1 px solid;
+
+
+}
+body{
+  background-color:  rgb(11, 42, 66);
+margin-right:  10%;
+margin-left: 10%;
+
+}
+
+h1{
+color: aquamarine;
+font-size: 0.5cm;
+}
+
+h2{
+color: yellow;
+
+
+}
+
+
+p{
+color: white;
+font-size: 0.5cm;
+
+}
+img{
+
+width: 95%;
+height: 20%;
+
+
+}
+
+footer{
+color: rgb(235, 221, 26);
+text-align: center;
+font-size: 00.5cm;
+
+
+}
